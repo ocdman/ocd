@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-	printf("I'm a ocd man\n");
+	printf("I'm an ocd man\n");
 	return 0;
 }
